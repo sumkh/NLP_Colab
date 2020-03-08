@@ -1,5 +1,6 @@
 
 Today I'll highlight recent pipeline updates and discuss some of the key milestones we anticipate for the remainder of 2017.
+
 I'll start with our hem-onc programs, where we continue to make significant progress with both Imbruvica and Venclexta
 
 Starting with Imbruvica, as we've outlined, expanding into new indications is an important driver of future growth
@@ -27,6 +28,7 @@ The Phase 3 program evaluating Venclexta in front-line CLL is also ongoing, with
 These studies, as well as other combination studies with Imbruvica, are important parts of the Venclexta strategy to drive toward chemo-free regimens in CLL
 
 We anticipate key data from the CLL14 study in older patients with comorbid medical conditions to be available in 2018.
+
 Beyond our core strategy in CLL, we are making great progress with our development programs to expand Venclexta across multiple hematologic malignancies
 
 We have Phase 3 studies ongoing in multiple myeloma as well as AML, where we have received Breakthrough Therapy Designation
@@ -40,7 +42,9 @@ I'll now turn to our solid tumor programs, where we continue to make good progre
 Starting with Rova-T, our registrational trial in third-line-plus small cell lung cancer, the TRINITY study, continues to progress nicely, and we expect data later this year
 
 Our submission will follow soon thereafter, enabling a commercial launch in 2018.
+
 In addition to TRINITY, we have a comprehensive development program in place for Rova-T to evaluate this promising therapy in earlier lines of treatment in small cell lung cancer, as well as in other tumor types that express DLL3.
+
 The Rova-T program includes additional studies currently underway in small cell lung cancer, including MARU, a Phase 3 study evaluating standard chemotherapy followed by Rova-T in the front-line setting, and a mid-stage combination study evaluating Rova-T with Opdivo and – with Opdivo and Yervoy in small cell lung cancer
 
 And this quarter, we will also start the TAHOE study, a Phase 3 trial in second-line small cell lung cancer
@@ -60,6 +64,7 @@ And later this year, we'll see data from the Phase 2 study in second line GBM th
 In our early-stage oncology pipeline, we continue to build capabilities and explore new technologies that will extend our reach in the solid tumor market
 
 We're making good progress with our next-generation immuno-oncology programs and other novel approaches such as our bispecific technology, with a number of assets having recently entered the clinic and more study starts expected through the remainder of 2017.
+
 Moving now to our HCV program, where we recently received priority review from the FDA for our pan-genotypic next-generation HCV therapy
 
 In the quarter we also received EMA accelerated assessment and priority review in Japan
@@ -67,6 +72,7 @@ In the quarter we also received EMA accelerated assessment and priority review i
 Last week at the International Liver Congress we presented new results from our Phase 3 program, including data from the EXPEDITION-1 and ENDURANCE-3 studies, which together with previously reported data reinforce our next-generation therapies' potential to provide high cure rates and a shorter treatment duration for the majority of patients across all genotypes, including patients with compensated cirrhosis and those with genotype 3 infection
 
 Results from EXPEDITION-1 demonstrated that 99% of patients with compensated cirrhosis achieved SVR12 with 12 weeks of treatment across genotypes 1, 2, 4, 5, and 6.
+
 We also presented data from ENDURANCE-3 in patients with genotype 3, the second most common (16:22-16:33) genotype globally and the most challenging to treat
 
 These results showed that with just eight weeks of treatment, 95% of genotype 3 patients without cirrhosis and who are new to treatment achieved SVR12 with our next-generation therapy
@@ -88,6 +94,7 @@ These data show that selective blockade of IL-23 with risankizumab was associate
 In this study, approximately 2.5 times as many patients achieved PASI 100 with risankizumab compared with those receiving Stelara
 
 The Phase 3 program in psoriasis is well underway, and we look forward to seeing data from three of the pivotal studies later this year, with commercialization expected in 2019.
+
 Earlier this month, we also published results from a proof-of-concept Phase 2 study of risankizumab in Crohn's disease
 
 Results from this study show that patients receiving risankizumab achieved higher clinical and endoscopic remission rates than placebo, suggesting that blocking IL-23 could be a very promising therapeutic approach in Crohn's disease
@@ -97,6 +104,7 @@ Results from this study show that patients receiving risankizumab achieved highe
 Phase 3 studies in Crohn's disease will be starting soon
 
 This year we'll also see Phase 2 data in psoriatic arthritis, with Phase 3 studies expected to begin in the first half of 2018.
+
 Additionally, we are expecting to begin a Phase 2 for risankizumab in ulcerative colitis in the second half of the year
 
 Moving now to our selective JAK1 inhibitor, ABT-494, where we continue to make significant progress with our development programs in RA and inflammatory bowel diseases
@@ -150,7 +158,10 @@ and in major jurisdictions around the world
 And based on that, we remain confident in our program and don't see any read-through from the Lilly situation
 
 We've designed a very comprehensive and robust Phase 3 program that will thoroughly characterize the efficacy and safety profile of both of the doses of ABT-494 that are being studied in Phase 3.
-And we remain confident in the data that we've seen, our Phase 2 data, we're very strong not only from an efficacy, but also from a safety perspective
+
+And we remain confident in the data that we've seen, our Phase 2 data
+
+, we're very strong not only from an efficacy, but also from a safety perspective
 
 An important issue here is dose selection, and we designed a very robust Phase 2b program that explored a wide range of doses across different patient populations, because dose response is not necessarily the same in an earlier population or an TNF-inadequate responder population, for example
 
@@ -167,6 +178,7 @@ I'll take that question
 We feel very good about the data that we've generated across the program and across genotypes
 
 If you look at our response rates, they're very high across both the common and uncommon genotypes, and in particular in some of the most difficult to treat patient populations, like genotype 3.
+
 And so, while it's difficult to speculate about a label, we think that the evidence that we've generated strongly supports pan-genotypic use of the product
 
 And with respect to the eight-week data, I would make similar statements
@@ -219,7 +231,9 @@ First, we had very good durability response, and there's a very good administrat
 
 So basically what we're looking for is a result in Phase 3 that is consistent with those Phase 2 data
 
-The other thing I'd point out, with respect to other agents, is we run active comparators in our Phase 2b, now that's against Stelara not against the IL-17s, but we saw very high PASI 100 rates there
+The other thing I'd point out, with respect to other agents, is we run active comparators in our Phase 2b
+
+, now that's against Stelara not against the IL-17s, but we saw very high PASI 100 rates there
 
 And as I pointed in out in my prepared remarks, PASI 100 was about 2.5 times higher for risankizumab as compared to Stelara in that Phase 2, and the results of PASI 90 were similar, that there were substantially higher PASI 90 response rates, about double that of Stelara
 
@@ -243,7 +257,9 @@ We're also going to see data in other forms of non-Hodgkin lymphoma over the cou
 
 Outside of NHL, we're making good progress with GVHD
 
-As I mentioned in my prepared remarks, we have the initial submission in but we have ongoing data generation in GVHD
+As I mentioned in my prepared remarks, we have the initial submission in
+
+but we have ongoing data generation in GVHD
 
 So all of those data will mature over the course of the timeframe that you described
 
@@ -273,7 +289,9 @@ With respect to ongoing work, we have ongoing studies, some of which will read o
 
 So we can't speculate about what those results might be, but we will complete the ongoing studies and update you on the progress as soon as possible
 
-Divan - Credit Suisse Securities (USA) LLC (Broker) Okay
+Divan - Credit Suisse Securities (USA) LLC (Broker)
+
+Okay
 
 Thanks, Mike
 
@@ -312,6 +330,7 @@ Based on the timing of reimbursement decisions outside the U.S
 and managed-care contracting cycles in the U.S
 
 , we expect to see meaningful sales contribution from MAVIRET starting in 2018.
+
 Global sales of Duodopa, our therapy for advanced Parkinson's disease, grew 16% on an operational basis in the quarter
 
 And we also saw strong growth from Creon, which was up over 9% in the quarter
@@ -361,6 +380,7 @@ We continue to expect a net interest expense of approximately $1 billion
 And the adjusted tax rate for the full year should be modeled at above 19%
 
 For the third quarter, we expect adjusted earnings per share between $1.36 and $1.38.
+
 This adjusted EPS guidance excludes roughly $0.22 of non-cash amortization and other specified items and represents year-over-year growth of 13.2% at the midpoint
 
 We are forecasting operational revenue growth of approximately 9% through the third quarter
@@ -404,7 +424,11 @@ But that still left 80 basis points to the good, and that was really a mix of pr
 The royalty burden really lifts in two different phases
 
 The first third of it lifts at the very end of 2017, so you see a P&L impact in 2018.
-The other two-thirds lifts at the very end of 2018, so you see the P&L benefit in 2019.
+
+The other two-thirds lifts at the very end of 2018
+
+, so you see the P&L benefit in 2019.
+
 And then in terms of quantity to model, we have said that that burden is about 5% to 6% of global HUMIRA sales
 
 Okay
@@ -428,6 +452,7 @@ We continued the initial European launch of our Alinity family of systems, which
 As we've stated previously, our primary focus during this initial launch period has been to convert a number of long tenured Abbott customers to Alinity and we continue to make progress on that front across all of the major European countries
 
 We continue to anticipate CE Mark for our Alinity molecular diagnostic systems in the coming months and expect to begin the launch of the Alinity instruments in the US in 2018.
+
 During the quarter, we also announced our acquisition of Alere establishing Abbott, is the global leader in Point of Care testing
 
 This combination creates the broadest Point of Care testing portfolio in the world with leading positions across cardio, metabolic, infectious disease and toxicology testing
@@ -502,13 +527,21 @@ I'd say it's fair to think that the accretion will be much more modest and what 
 
 We will get a full year, we'll get a quarter's head start
 
-And obviously our intent is to be accretive to our company and our business and we believe that with the acquisition we've positioned ourselves as the leader in Point of Care testing worldwide and all of that has the intent of good solid growth and profit growth for our investors, but I'm going to be cautious about what I communicate for 2018 at this point until we've really had a chance to assess it more thoroughly
+And obviously our intent is to be accretive to our company and our business
+
+and we believe that with the acquisition we've positioned ourselves as the leader in Point of Care testing worldwide and all of that has the intent of good solid growth and profit growth for our investors, but I'm going to be cautious about what I communicate for 2018 at this point until we've really had a chance to assess it more thoroughly
 
 I think it's a good target
 
-I don't know that we know yet, but that's certainly I think an expectation we Abbott ought to have and the question is, how rapidly we can do that
+I don't know that we know yet, but that's certainly
 
-Look I think it's a fair expectation and if I was and I'm totally honest with you
+I think an expectation we Abbott ought to have and the question is, how rapidly we can do that
+
+Look I think it's a fair expectation
+
+and if I was
+
+and I'm totally honest with you
 
 I wouldn't have a lesser expectation
 
@@ -538,11 +571,17 @@ It was remarkably well embraced for reimbursement by government bodies in Europe
 
 And consequently we believe that part of the appeal is not just, what Libre can do and the information that it provides to a diabetic was a very informed patient and a very self-managing patient
 
-It provides them tremendous information, tremendous guidance in the management of diabetes and I know that first-hand, I wear one
+It provides them tremendous information, tremendous guidance in the management of diabetes
 
-And I got to say it's just a phenomenal device, it's a super product
+and I know that first-hand, I wear one
 
-I can see why consumers like it as much as they do and that's true for both Type I and Type II's and we're seeing that universally across the board, they use it in different ways or at least the information mean something to them in different ways
+And I got to say it's just a phenomenal device
+
+, it's a super product
+
+I can see why consumers like it as much as they do and that's true for both Type I and Type II's
+
+and we're seeing that universally across the board, they use it in different ways or at least the information mean something to them in different ways
 
 Whether they're managing insulin or whether they're managing diet and exercise and other things
 
@@ -558,13 +597,19 @@ The product is priced at a very economic and affordable level
 
 The intention there is as much and broad access as possible and as rapidly as possible
 
-And I think that value proposition is stunning compared to competitive offerings and I think that's going to be making it strong
+And I think that value proposition is stunning compared to competitive offerings
 
-We are in discussions with payers and we're in discussion with payers about that value proposition and I believe that will all go very well
+and I think that's going to be making it strong
+
+We are in discussions with payers and we're in discussion with payers about that value proposition
+
+and I believe that will all go very well
 
 I know that's not as much detail as you'd like to have, but it's as much I'm willing to share at this point because right now I would tell you we expect a good strong out of the block performance like you described and beyond that
 
-I mean right now, Mike we're adding about 50,000 patients a quarter and that's across a continent that we had to go at one country at a time, one reimbursement system at a time
+I mean right now, Mike we're adding about 50,000 patients a quarter
+
+and that's across a continent that we had to go at one country at a time, one reimbursement system at a time
 
 Of course the US is quite large, and Japan and UK as additions to this are also quite large
 
@@ -584,7 +629,9 @@ Now having said that, we stuck to our guns on what our estimates were and our pr
 
 And the third quarter alone here has been pretty gratifying in that
 
-We basically got every approval we forecasted and let's call it, within 30 days or so of what we forecasted and I think that's been pretty gratifying, that what we said is what happened and that includes Libre, that includes the high voltage MRI claim, that includes HeartMate, it includes the closure of Alere, it includes Libre, it includes lot of things
+We basically got every approval we forecasted and let's call it, within 30 days or so of what we forecasted and I think that's been pretty gratifying, that what we said is what happened and that includes Libre, that includes the high voltage MRI claim, that includes HeartMate, it includes the closure of Alere
+
+, it includes Libre, it includes lot of things
 
 I don't generally like being backend loaded because it feels like a lot of risk that everything has to go right, but everything did
 
@@ -594,7 +641,9 @@ Our team that has been working with the Sylmar team and so forth has done an exc
 
 And at this point and we're just experiencing those new systems populating with new experience, new data, new decision making etc
 
-and all of that is going exactly as planned, exactly as forecasted, exactly as communicated with the FDA and thus far without a hiccup and I think that's recognized by the FDA
+and all of that is going exactly as planned, exactly as forecasted, exactly as communicated with the FDA and thus far without a hiccup
+
+and I think that's recognized by the FDA
 
 I think it's recognized, they have discretion, they don't have to license new products out of that facility, but they have
 
@@ -606,9 +655,13 @@ I'm not going to change what we forecasted
 
 I have no reason to believe otherwise
 
-They clearly have the discretion not to, but that's not been our experience and so consequently I remain optimistically that we're on track that we'll deliver what we said
+They clearly have the discretion not to, but that's not been our experience and
 
-Well I'll tell you what, I'm not sure
+so consequently I remain optimistically that we're on track that we'll deliver what we said
+
+Well I'll tell you
+
+what, I'm not sure
 
 I would tell you this
 
@@ -618,7 +671,9 @@ We're ready for the transition
 
 Building inventory for such etc
 
-So as far as responding to the new law and I think this is true for at least the large multinational competitors
+So as far as responding to the new law
+
+and I think this is true for at least the large multinational competitors
 
 I think most of us, if not all of us have our product approvals
 
@@ -626,12 +681,18 @@ We are ready for the transition etc
 
 How we all manage that, who knows
 
-But I think at least we are and I think others are, ready with new approved replacement products etc
+But I think at least we are
+
+and I think others are, ready with new approved replacement products
+
+etc
 
 as we've been required to do
 
 So I think we're all ready for the transition on January 1.
+
 What you can't know very well, at least about everybody else is how much inventory everybody has in various channels?
+
 How long that transition will take for any given competitor and so forth
 
 We are comfortable with our inventory levels were comfortable with our inventory levels both on current product and post January 1 product
@@ -640,21 +701,33 @@ So we're comfortable what we think we have to do with our own transition
 
 What's hard to project is not just multinationals, but all the hundreds of other Chinese competitors that are faced with the same regulation
 
-So I'd say we've seen a stabilizing of China, it hasn't been as choppy as it was in the last two years
+So I'd say we've seen a stabilizing of China
+
+, it hasn't been as choppy as it was in the last two years
 
 I'd say our estimates around market growth are hard to pin down
 
 We were more conservative on market growth than recent data we've seen
 
-The market growth is better than we indicated or better than we believed or better than we thought and we're looking pretty closely at all the sources of our market data because there are many and they're not all perfectly comprehensive across all channels and then all sources of products or even all geography, so it's a hard win
+The market growth is better than we indicated or better than we believed or better than we thought
+
+and we're looking pretty closely at all the sources of our market data because there are many and they're not all perfectly comprehensive across all channels and then all sources of products or even all geography, so
+
+it's a hard win
 
 China is a particularly difficult one to pin down because there are a number of channels, there are a lot of competitors, there are a lot of data sources, it's not like going to AC Nielsen in the US or something
 
 So I'm cautious about it
 
-I think we've seen the tough part and I think we're going back into a phase where it's the same kind of hand-to-hand competition, we've always had across multiple channels, I like that
+I think we've seen the tough part
 
-I think that's better because at least then whether we do well or don't do well is a function of our execution, I haven't been particularly pleased with our execution and I don't exclude a number of other countries where we do see soft market conditions, but I also see less than great execution on our part
+and I think we're going back into a phase where it's the same kind of hand-to-hand competition, we've always had across multiple channels, I like that
+
+I think that's better because at least then whether we do well or don't do well is a function of our execution, I haven't been particularly pleased with our execution
+
+and I don't exclude a number of other countries where we do see soft market conditions, but
+
+I also see less than great execution on our part
 
 So this business is getting a lot of attention from us and from all of us top to bottom and it will get some attention
 
@@ -668,19 +741,29 @@ I feel that China is at least reasonably stable or predictable
 
 We haven't been right about the market growth rates
 
-Those looked better than we expected, so that's a plus and I guess I would just leave it at there
+Those looked better than we expected, so that's a plus
+
+and I guess I would just leave it at there
 
 Yes, I expect it to be accretive
 
 We've got a lot of work to do, to identify our synergies and identify growth opportunities
 
-We're going through reorganization of the business right now and I think that's actually going to be a plus
+We're going through reorganization of the business right now
 
-I don't want to describe how it was organized because I think that's kind of waste of time and it will take a long time, but we went through a restructuring of the old structure of St
+and I think that's actually going to be a plus
 
-Jude and we did it within six months and as you know organized in integrated business units that I'd say organization is still kind of setting, the glue is still kind of setting, but we move to within six months that might have been aggressive but the organization is very stable
+I don't want to describe how it was organized because I think that's kind of waste of time
 
-The restructuring activities that we had to go through and a lot of synergizing as far as people go, we've gone through, changes and management we've gone through etc
+and it will take a long time, but we went through a restructuring of the old structure of St
+
+Jude and
+
+we did it within six months and as you know organized in integrated business units that I'd say organization is still kind of setting, the glue is still kind of setting, but we move to within six months that might have been aggressive but the organization is very stable
+
+The restructuring activities that we had to go through and a lot of synergizing as far as people go, we've gone through, changes and management
+
+we've gone through etc
 
 But about the six month level at St
 
@@ -688,9 +771,15 @@ Jude it all got done in Alere in six days
 
 So that's a running start
 
-And we've announced what we're moving to, I think it's an organization like all organizations all people want to do well
+And we've announced what we're moving to
 
-They want to achieve, they want to grow, they want to be proud of the businesses they're running, they want to do well and I'd say, our early days with the employees of Alere have been positive and we announced that we're going to go to that kind of structure, we've announced how we're going to do it, why we're going to do it etc
+, I think it's an organization like all organizations all people want to do well
+
+They want to achieve, they want to grow, they want to be proud of the businesses they're running, they want to do well
+
+and I'd say, our early days with the employees of Alere have been positive and we announced that we're going to go to that kind of structure
+
+, we've announced how we're going to do it, why we're going to do it etc
 
 and I think that's well received at this point
 
@@ -708,7 +797,9 @@ As you may understand it gets approved in pieces and so far, so good
 
 There are some peripheral pieces we're waiting for approval on, but the first and very critical portion of that is approved
 
-So yes I think that's - so far everything we've seen is very encouraging and no change
+So yes I think that's -
+
+so far everything we've seen is very encouraging and no change
 
 Well right now, that's what I bet on
 
@@ -718,20 +809,37 @@ Look, we got our acquisitions closed
 
 We're going to have a number of product approvals that happened in the third quarter and fourth quarter that obviously should hit their stride
 
-I mean ideally you look at 2018 and you'd like to have your product approvals exactly where we got them, going into next year
+I mean ideally you look at 2018
+
+and you'd like to have your product approvals
+
+exactly where we got them, going into next year
 
 We've had a really good 2017, we beat all expectations not just in the numbers, but in the approvals
 
 You all have to admit you had a lot of scepticism about some of this and maybe rightly so after 2016, but look we hit every target, we had for this and with all those approvals, one ought to think that, should bode positively for 2018.
-That said, when we go through our budgeting every year it's kind of negotiating tussle with our managers around the world, about what's possible in their given market and so forth
 
-But I think we ought to have pretty good momentum going into 2018 What can I say, all the organic R&D projects and system projects and launches and approvals and so forth, they're all happening
+That said, when we go through our budgeting every year
 
-And the Alinity products probably most miraculously five of those began their launch process in Europe and they'll start in the US next year, that's been a huge, huge undertaking, we're extremely excited about Libre, we're excited about all the medical device products, everything that St
+it's kind of negotiating tussle with our managers around the world, about what's possible in their given market and so forth
 
-Jude represented to Abbott about its pipeline has come to fruition and is coming to fruition and so, we're very, very bullish about all that
+But I think we ought to have pretty good momentum going into 2018
 
-And I think we're - and I think there is an awful lot of validation in this about that acquisition
+What can I say, all the organic R&D projects and system projects and launches and approvals and
+
+so forth, they're all happening
+
+And the Alinity products probably most miraculously five of those began their launch process in Europe and they'll start in the US next year, that's been a huge, huge undertaking
+
+, we're extremely excited about Libre, we're excited about all the medical device products, everything that St
+
+Jude represented to Abbott about its pipeline has come to fruition and is coming to fruition and
+
+so, we're very, very bullish about all that
+
+And I think we're -
+
+and I think there is an awful lot of validation in this about that acquisition
 
 We don't know as much about Alere yet, but we will
 
@@ -741,7 +849,9 @@ So you know Rick, I think your assessment is right
 
 It'd be kind of hard for me to say, no it's going to be a tough year
 
-Okay, well first I'd tell you that, this got great leadership and attention from our CFO and our EVP's and SVP's from day one and I'm going to let him answer that question because they've exceeded all of our targets not just by a little, but a lot
+Okay, well first I'd tell you that, this got great leadership and attention from our CFO and our EVP's and SVP's from day one
+
+and I'm going to let him answer that question because they've exceeded all of our targets not just by a little, but a lot
 
 The cash flow is strong and I'll let him tell you that
 
@@ -749,7 +859,11 @@ I think [indiscernible] commercial out there
 
 This all gets even better if there is tax reforms
 
-I wouldn't put odds on any more than anybody else watching our government but we're extremely hopeful of the territorial system that and it gives us access to our cash flows and earnings around the world at a reasonable rate and at a competitive rate and that does make it difference to us, in addressing current debt and cash flow, but cash flow itself, super good
+I wouldn't put odds on any more than anybody else watching our government
+
+but we're extremely hopeful of the territorial system that
+
+and it gives us access to our cash flows and earnings around the world at a reasonable rate and at a competitive rate and that does make it difference to us, in addressing current debt and cash flow, but cash flow itself, super good
 
 I would comment a couple of things
 
@@ -757,7 +871,9 @@ First of all, it was a strange quarter for us in that, multiple hurricanes wheth
 
 The earthquake in Mexico impacted us
 
-The brush fires and forced fires in California actually impacted us the day after we closed Alere had a key Alere facility there
+The brush fires and forced fires in California actually impacted us the day after we closed Alere
+
+had a key Alere facility there
 
 And to be honest, it was more impact on our employees than on our plant operations
 
@@ -765,13 +881,19 @@ We had a little bit of roof damage and a little water leakage here and there, bu
 
 It took up a super human effort by a lot of our people to try to address some of that, which we did
 
-The biggest issue was access to power generation in Puerto Rico and our folks address that really rapidly and we're very happy about that
+The biggest issue was access to power generation in Puerto Rico and our folks address that really rapidly
+
+and we're very happy about that
 
 Our plants, I guess back up and running, is the right way to say it
 
-There is one that we're starting this week and we're back up, is what it amounts to
+There is one that we're starting this week
 
-And so there is - I would call it a modest impact, it affected us, I'd say in a modest level, not a material level
+and we're back up, is what it amounts to
+
+And so there is -
+
+I would call it a modest impact, it affected us, I'd say in a modest level, not a material level
 
 Our first priority was to find all of our people and aid them, which we've done
 
@@ -783,9 +905,13 @@ We're kind of large in Puerto Rico, so it could have been worse, but it wasn't a
 
 Jude facilities that we inherited there with the acquisition
 
-Jude were not particularly impacted, I mean they were but not to the degree we might have expected I mean everything is been more about power generation than damage
+Jude were not particularly impacted, I mean they were but not to the degree we might have expected
 
-And unfortunately that's not true for our employees and it's not true for some other competitors and I wouldn't wish that on anybody
+I mean everything is been more about power generation than damage
+
+And unfortunately that's not true for our employees and it's not true for some other competitors
+
+and I wouldn't wish that on anybody
 
 But we've been pretty fortunate to get everything back up and running
 
@@ -793,7 +919,13 @@ So we don't have an impact to report for the fourth quarter that we haven't some
 
 The facility that was threatened in California was not damaged
 
-We were able to move things out of that facility and prepare for damage, but there wasn't damage and so we'll be back up and running soon, we did have employees who unfortunately lost homes and so forth and we're dealing with that as a company
+We were able to move things out of that facility and prepare for damage, but there wasn't damage
+
+and so we'll be back up and running soon
+
+, we did have employees who unfortunately lost homes and so forth
+
+and we're dealing with that as a company
 
 But from the standpoint of the operation of the business, we are in good shape relatively speaking and to the extent that there is any impact, we've already included in our estimates for this quarter and absorbed it
 
@@ -811,9 +943,15 @@ I think I would give you that answer regardless of what Brian said about debt an
 
 And secondly, I wouldn't forecast it even if I had it in my gun sights
 
-Most of the - my experience with you guys over the past 19 years has been you liked to have some indication on what's coming, usually that surprised you more acquisitions or other things that we've done that hasn't always been particularly well received but they've always turned out pretty well, but I generally don't like the forecast where we're going or what we're doing until we announce it and so I probably wouldn't tell you anyway
+Most of the - my experience with you guys over the past 19 years has been you liked to have some indication on what's coming, usually that surprised you more acquisitions or other things that we've done that hasn't always been particularly well received
 
-Glen Novarro But is there some powder [ph] for next year or is next year really let's focus on St
+but they've always turned out pretty well, but I generally don't like the forecast where we're going or what we're doing until we announce it
+
+and so I probably wouldn't tell you anyway
+
+Glen Novarro
+
+But is there some powder [ph] for next year or is next year really let's focus on St
 
 Jude, let's focus on Alere, before we think about anything else
 
@@ -831,7 +969,11 @@ These are fundamental drivers of sustained growth
 
 I mean it's the hallmark and the identity of the company is sustained growth and we target double-digit earnings growth every single year, your organic performance both in terms of R&D, pipeline, commercial performance etc
 
-has to be sustainable that is where the focus is, and we've acquired a couple of businesses that initially were criticized that's not growth and I beg to differ and I think that we're demonstrating so far with St
+has to be sustainable that is where the focus is, and we've acquired a couple of businesses that initially were criticized that's not growth
+
+and I beg to differ
+
+and I think that we're demonstrating so far with St
 
 Jude that there is a terrific pipeline and growth and share gain, etc
 
@@ -841,7 +983,11 @@ You can see that in the initial couple of quarters here, so yes I think there is
 
 Jude and Alere, but the fundamental organic performance of all of our businesses
 
-You know it took a while for analysts and investors to appreciate the uniqueness of our strategy in established pharma and I think it sort of called out that there is a segment of pharma that's not commodity generic, that's branded generic, that's higher margin, higher growth, etc
+You know it took a while for analysts and investors to appreciate the uniqueness of our strategy in established pharma
+
+and I think it sort of called out that there is a segment of pharma that's not commodity generic
+
+, that's branded generic, that's higher margin, higher growth, etc
 
 in pretty key markets around the world and right now that's our fastest growing business other than neuromod
 
@@ -857,28 +1003,51 @@ We obviously want to get to a position where we have the strategic flexibility t
 
 Keep pushing our cash flow, keep pushing that debt down
 
-So that's where the focus will be next year and I think we get ourselves back to strategic flexibility quicker that way, which is a good thing
+So that's where the focus will be next year
 
-Glen Novarro Yes
+and I think we get ourselves back to
 
-Okay and then just I agree with everything you said, just some housekeeping
+strategic flexibility quicker that way, which is a good thing
+
+Glen Novarro
+
+Yes
+
+Okay
+
+and then just I agree with everything you said,
+
+just some housekeeping
 
 Maybe for Scott
 
-You said Portico you finished in ruling next to US trial, would that put you on pace for 2019 US launch
+You said Portico you finished in ruling next to US trial, would that put you on pace for 2019
 
-And then I think you talked about Mitro [ph] which is the Tendyne program and I think you said you started enrolling, is that enrolling in the European trial and then is there an update on the start of the US trial?
+US launch
+
+And then I think you talked about Mitro [ph] which is the Tendyne program
+
+and I think you said you started enrolling, is that enrolling in the European trial and then is there an update on the start of the US trial?
+
 Thanks
 
 I'm going let Scott answer that
 
-It's a really good to know, that's one that came out of our own venture group from our own investments and so forth and we've been able to combine these things, with St
+It's a really good to know, that's one that came out of our own venture group from our own investments and so forth
 
-Jude in a way I think is pretty synergistic, pretty favorable so we're pretty excited about that one
+and we've been able to combine these things, with St
 
-Glen Novarro Any update on when you start the US trial for Tendyne?
+Jude in a way I think is pretty synergistic, pretty favorable
 
-I mean I think anybody that claimed 50% growth rate was sustainable will be an idiot, but so I'm not going to be one
+so we're pretty excited about that one
+
+Glen Novarro
+
+Any update on when you start the US trial for Tendyne?
+
+I mean I think anybody that claimed
+
+50% growth rate was sustainable will be an idiot, but so I'm not going to be one
 
 Look we're very pleased with the performance in Neuromod
 
@@ -894,9 +1063,18 @@ I think it's a really great group of products and a strong organization
 
 I think the products hit a segment that's in kind need of improvements for patients and particularly the time when pain drugs and so forth are a national issue
 
-So I don't know, I think the new products are driving the growth and the execution is been strong, the uptick is been strong
+So I don't know
+
+, I think the new products are driving the growth and the execution is been strong, the uptick is been strong
 
 We've got three quarters in a row, 50% better growth
 
-How long will it be like that? [
-Indiscernible] lap it, with all big numbers we'll start to diminish the growth rate, but the actual raw growth will still be pretty strong, so I don't know, I like what we see but it's hard for me to hold it up with an example to all the other business, so you should do this
+How long will it be like that?
+
+[Indiscernible] lap it, with all big numbers we'll start to diminish the growth rate, but the actual raw growth will still be pretty strong,
+
+so I don't know
+
+, I like what we see
+
+but it's hard for me to hold it up with an example to all the other business, so you should do this
