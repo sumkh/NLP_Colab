@@ -228,7 +228,7 @@ def main():
 
     layer_indexes = [int(x) for x in args.layers.split(",")]
 
-    tokenizer = BertTokenizer.from_pretrained(args.output_dir)
+    #tokenizer = BertTokenizer.from_pretrained(args.output_dir)
 
     examples = read_examples(args.input_file)
 
@@ -239,8 +239,8 @@ def main():
     for feature in features:
         unique_id_to_feature[feature.unique_id] = feature
 
-    model = BertModel.from_pretrained(args.output_dir)
-    model.to(device)
+    #model = BertModel.from_pretrained(args.output_dir)
+    #model.to(device)
 
     if args.local_rank != -1:
         model = torch.nn.parallel.DistributedDataParallel(model, device_ids=[args.local_rank],
