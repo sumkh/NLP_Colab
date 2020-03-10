@@ -194,7 +194,7 @@ def main():
     ## Required parameters
     parser.add_argument("--input_file", default=None, type=str, required=True)
     parser.add_argument("--output_file", default=None, type=str, required=True)
-    parser.add_argument("--output_dir", default=None, type=str, required=True)
+    #parser.add_argument("--output_dir", default=None, type=str, required=True)
     #parser.add_argument("--bert_model", default=None, type=str, required=True,
     #                    help="Bert pre-trained model selected in the list: bert-base-uncased, "
     #                         "bert-large-uncased, bert-base-cased, bert-base-multilingual, bert-base-chinese.")
